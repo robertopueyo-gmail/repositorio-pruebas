@@ -1,0 +1,5 @@
+Un coche:
+Ruedas
+Asientos
+Volante
+Las partes de un coche
