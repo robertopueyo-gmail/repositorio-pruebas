@@ -3,4 +3,5 @@ Ruedas
 Luces delanteras
 Asientos
 Volante
+Luces traseras
 Las partes de un coche
