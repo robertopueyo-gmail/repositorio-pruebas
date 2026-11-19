@@ -1,5 +1,6 @@
 Un coche:
 Ruedas
+Luces delanteras
 Asientos
 Volante
 Las partes de un coche
