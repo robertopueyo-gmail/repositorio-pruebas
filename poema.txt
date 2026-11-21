@@ -1,9 +1,11 @@
-Un coche y una bici:
+Un coche y una bici. Y ahora, una moto:
 Ruedas
 Manillar
 Luces delanteras
 Asientos
 Volante
+Tubo de escape
 Sillín
 Luces traseras
+Cúpula
 Las partes de un coche y una bici.
