@@ -1,7 +1,9 @@
-Un coche:
+Un coche y una bicicleta:
 Ruedas
 Luces delanteras
 Asientos
+Sillín
 Volante
 Luces traseras
-Las partes de un coche
+Manillar
+Las partes de un coche y una bicicleta
