@@ -9,3 +9,4 @@ Sillín
 Luces traseras
 Cúpula
 Las partes de un coche y una bici.
+*******************
