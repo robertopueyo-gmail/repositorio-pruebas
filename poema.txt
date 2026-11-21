@@ -6,4 +6,6 @@ Asientos
 Volante
 Sillín
 Luces traseras
+Cinturón de seguridad
 Las partes de un coche y una bici.
+*******************
